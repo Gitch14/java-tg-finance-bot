@@ -1,7 +1,7 @@
-package com.bot.multimediadownloader.config;
+package com.example.javatgbot.config;
 
 
-import com.bot.multimediadownloader.service.TelegramBot;
+import com.example.javatgbot.bot.TelegramBot;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.context.event.EventListener;
